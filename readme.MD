@@ -131,10 +131,3 @@ shell_command:
 3. Restart your Homeassistant, now you should see the Arlo folder in your media player
 
 ****
-
-<br>
-Money jar to save up for an RPi4 or some beer in the lonely night :)
-
-Thank you!
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=J58W48P8U345G)
